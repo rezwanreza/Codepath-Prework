@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## Bonjour App
 
 ### App Description
 `TODO://` Add app description
